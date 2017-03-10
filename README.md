@@ -3,6 +3,10 @@ Final project for the course of 'Graph Theory and Combinatorial Analysis', class
 
 Trabalho de identificação de digrafos e suas caracteristicas para a disciplina de Teoria dos Grafos e Análise Combinatoria de 2016/2.
 
-# Authors: Andy Ruiz, Lucas Hagen & Leonardo Bombardelli
+# Authors
+- Lucas Hagen
+- Andy Ruiz
+- Leonardo Bombardelli
 
+# Other Information
 Coded in Python
